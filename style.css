@@ -1,0 +1,23 @@
+.image{
+    
+    background-image: url(images/IMG_20220829_135217.png);
+    height: 630px;
+    width: 1330px;
+}
+
+.link-heading{
+
+    font-size: medium;
+    color: rgb(1, 14, 26);
+    
+}
+
+.link-name{
+    text-align: center;
+
+}
+
+.text{
+    background-color: rgb(166, 255, 0);
+    color: white;
+}
